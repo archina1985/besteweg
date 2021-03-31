@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530132170859",
+    "project_id": "lieferwolf",
+    "storage_bucket": "lieferwolf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530132170859:android:6c4b6ead4962510251592e",
+        "android_client_info": {
+          "package_name": "de.lieferwolf.kudenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530132170859-22ortk1ib98r1plcd4014raog2v6dp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0Su2Lamqae9oXqPq_PNmaViy6XmwaQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530132170859-22ortk1ib98r1plcd4014raog2v6dp1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
